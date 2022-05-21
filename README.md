@@ -1,6 +1,6 @@
-### Hi there 👋, Joshua Berrios
-#### Full Stack Web Developer
-I am a Veteran 🪖  & Christ-follower ✝️  who has always had a love and passion for digital media arts, technology, and music. All these three have led me into the world of web design and development. I love to build, learn, teach, and nerd out all things code and also no-code tools.
+### Hi there 👋, I am Joshua Berrios 🇵🇷
+#### Full-Stack Web Developer 👨‍💻 | Veteran 🪖 | Christ-Follower ✝️ | Dad of 👦🏻👦🏻 + 👧🏻
+From a very young age, I have always had a love and passion for digital media arts, technology, and music. All these three have led me into the world of web design and development. I love to build, learn, teach, and nerd out all things code and also no-code tools.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaB94&show_icons=true) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JoshuaB94)  
 
