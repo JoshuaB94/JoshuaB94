@@ -1,6 +1,8 @@
-### Hi there 👋, I am Joshua Berrios 🇵🇷
-#### Full-Stack Web Developer 👨‍💻 | Veteran 🪖 | Christ-Follower ✝️ | Dad of 👦🏻👦🏻 + 👧🏻
-From a very young age, I have always had a love and passion for digital media arts, technology, and music. All these three have led me into the world of web design and development. I love to build, learn, teach, and nerd out all things code and also no-code tools.
+# Hi 👋, I am Joshua Berrios 🇵🇷
+## Full-Stack Web Developer 👨‍💻 | Veteran 🪖 | Christ-Follower ✝️ | Dad of 👦🏻👦🏻 + 👧🏻
+From a very young age, I have always had a love and passion for digital media arts, technology, and music. All these three have led me into the world of web design and development. I love to build, learn, teach, and nerd out about all things code, no-code, and camera gear!
+
+I am currently building in public, a hiring platform called Tutorial Flare, where companies can hire video creators who specialize in video tutorials for products, software, and courses. You can follow my building in public journey on [MakerLog](https://getmakerlog.com/users/ixoyedesignstudio) and Twitter.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaB94&show_icons=true) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JoshuaB94)  
 
@@ -16,5 +18,5 @@ From a very young age, I have always had a love and passion for digital media ar
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ## Follow Me on the Socials
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ixoyedesign) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshuaberrios)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ixoyedesign) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshuaberrios) [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/jberrios)
 
